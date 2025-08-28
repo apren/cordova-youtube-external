@@ -1,0 +1,20 @@
+{
+  "name": "cordova-youtube-external",
+  "version": "1.0.0",
+  "description": "Force YouTube links to open outside the Cordova WebView.",
+  "cordova": {
+    "id": "cordova.plugin.youtubeexternal",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "youtube",
+    "external",
+    "intent"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
